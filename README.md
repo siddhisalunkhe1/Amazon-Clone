@@ -1,0 +1,1 @@
+Welcome to the Amazon Clone project! This is a frontend-only application that replicates the look and feel of the Amazon website. It’s built using modern web technologies and is designed to provide a seamless user experience similar to Amazon's online shopping platform.
